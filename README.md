@@ -1,6 +1,6 @@
-# Ejection Fraction (EF) Extractor from Clinical Notes
+# Distinct Medical Records Extractor from Clinical Notes and Narratives
 
-This Python script extracts **ejection fraction (EF)** values from unstructured clinical notes using regular expressions. It is designed to handle a wide variety of EF expressions commonly found in clinical documentation.
+This Python script extracts distinct medical records (e.g., ejection fraction) from unstructured clinical notes using regular expressions. It is designed to handle a wide variety of EF expressions commonly found in clinical documentation.
 
 ---
 
